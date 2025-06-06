@@ -1,0 +1,39 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+
+# Django
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.sql
+*.sqlite3
+db.sqlite3
+*.env
+
+# Environments
+.env
+venv/
+env/
+ENV/
+venv.bak/
+env.bak/
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Static and media files
+/static/
+/media/
+
+# Migrations
+**/migrations/
+
+# Pytest
+.pytest_cache/
